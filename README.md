@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Sahil 👋
 
-<!--
-**Sahil-Aktar-Khandakar/Sahil-Aktar-Khandakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Analyst with hands-on experience working with sales, operations, and business data.  
+I focus on analyzing data, building dashboards, and turning raw numbers into clear insights.
 
-Here are some ideas to get you started:
+### Tools I use
+- Excel / Google Sheets
+- Power BI
+- Tableau
+- SQL
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What you’ll find on this GitHub
+- Data analysis projects with real business context  
+- Interactive dashboards and visual analysis  
+- SQL and Python-based insights  
+- Clear explanations of problem → approach → outcome  
+
+📌 Each repository contains its own detailed README with analysis and insights.
+
+
